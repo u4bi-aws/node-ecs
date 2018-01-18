@@ -1,0 +1,23 @@
+{
+  "name": "node-ecs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/u4bi-aws/node-ecs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/u4bi-aws/node-ecs/issues"
+  },
+  "homepage": "https://github.com/u4bi-aws/node-ecs#readme",
+  "dependencies": {
+    "restify": "^6.3.4"
+  }
+}
